@@ -57,7 +57,7 @@ de componentes com classe, e aplicar a arquitetura flux, com Redux e Redux Saga.
    > git clone https://github.com/JoaoVictorfss/rocketshoes.git
   
   ##### Entre na pasta do projeto:
-   > cd bootcamp-gostack-09-desafio-05
+   > cd rocketshoes
 
   ##### Instale as dependências:
    > yarn 
